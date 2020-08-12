@@ -1,8 +1,8 @@
 def display_board(board)
-  board = ["  ", "  ", "  ", "  ", " X ", "  ", "  ", "  ", "  "]
+  board = ["  ", "  ", "  ", "  ", "  ", "  ", "  ", "  ", "  "]
   puts "   |   |   "
   puts "-----------"
-  puts "   |   |   "
+  puts "   | X |   "
   puts "-----------"
   puts "   |   |   "
 end
