@@ -1,5 +1,6 @@
 def display_board(board)
-  
+  board = [" ", " ", " ", " ", " ", " ", " ", " ", " "])
+  puts 'display board'
  separator = "|"
 lines = "-----------"
 
