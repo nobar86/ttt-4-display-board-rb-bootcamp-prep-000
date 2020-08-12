@@ -1,6 +1,5 @@
-def display_board(
-board = [" ", " ", " ", " ", " ", " ", " ", " ", " "])
-  puts "display board"
+def display_board(board)
+
  separator = "|"
 lines = "-----------"
 
